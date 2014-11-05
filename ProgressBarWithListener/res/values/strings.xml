@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Progress Bars with listener</string>
+    <string name="progressbar_update">3 progress-Bars in 3 different Threads</string>
+    <string name="start">Start!!</string>
+    <string name="stop">Stop!!</string>
+
+</resources>
