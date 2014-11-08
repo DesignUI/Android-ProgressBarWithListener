@@ -3,6 +3,8 @@ Android-ProgressBarWithListener
 
 3 progress bar in 3 different threads
 
+![Alt text](/progressbarwithlistener/res/drawable-hdpi/screen_shot_1.png?raw=true "Sreen Shot")
+
 The thread are constructed by the next class,
 
 ```Java
